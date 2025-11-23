@@ -1,0 +1,17 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de configuración locales
+.DS_Store
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
